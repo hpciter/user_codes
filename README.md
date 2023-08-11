@@ -15,3 +15,8 @@ Table of Contents below may not be complete but. Other examples are contained in
 * [gpu_basics](./gpu_basics/)
     - [01_gpu_basic_a100](./gpu_basics/01_gpu_basic_a100.sbatch)
     - [02_gpu_basic_mig_partition.sbatch](./gpu_basics/02_gpu_basic_mig_partition.sbatch)
+ 
+
+# Collaborate 
+
+All commits must be made to a non-protected branch (dev) and submitted via a pull request before they can be merged into a branch that matches this rule. 
