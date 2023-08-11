@@ -2,11 +2,10 @@
 
 ![TeideHPC_logo](images/teidehpc_logo.png)
 
-Table of Contents below is not complete but only includes links to popular libaries. Other examples are contained in this repo that are in the directory tree, use search to look through the full repository.
+Table of Contents below may not be complete but. Other examples are contained in this repo that are in the directory tree, use search to look through the full repository.
 
-├── basics
-│   ├── 00-sandy-nodes.sbatch
-│   ├── 01-icelake-nodes.sbatch
-│   └── README.md
-├── LICENSE
-└── README.md
+
+* [basics](./basic)
+    - [00-sandy-nodes.sbatch](./basic/00-sandy-nodes.sbatch)
+    - [01-icelake-nodes.sbatch](./basic/00-sandy-01-icelake-nodes.sbatch)
+
