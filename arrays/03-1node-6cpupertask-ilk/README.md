@@ -1,4 +1,4 @@
-# Ejemplo 2: 
+# Ejemplo 3: 
 
 En este caso, reservamos solo 1 nodo y 6 CPU para cada tarea de trabajo de matriz. 
 
