@@ -1,5 +1,5 @@
 
-# Use examples
+# Arrays use examples
 
 * [Ejemplo 1: El trabajo reserva 2 nodos y 4 CPU para cada tarea.](./01-2node-4cpupertask)
 
