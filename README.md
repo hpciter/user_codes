@@ -6,8 +6,8 @@ Table of Contents below may not be complete but. Other examples are contained in
 
 
 * [basics](./basic)
-    - [00-sandy-nodes.sbatch](./basic/00-sandy-nodes.sbatch)
-    - [01-icelake-nodes.sbatch](./basic/00-sandy-01-icelake-nodes.sbatch)
+    - [00-sandy-nodes.sbatch](./basics/00-sandy-nodes.sbatch)
+    - [01-icelake-nodes.sbatch](./basics/00-sandy-01-icelake-nodes.sbatch)
 * [arrays](./arrays/)
     - [01-2node-4cpupertask](./arrays/01-2node-4cpupertask/)
     - [02-2node-4cpupertask](./arrays/02-1node-4cpupertask/)
