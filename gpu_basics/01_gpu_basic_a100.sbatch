@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #SBATCH --job=01-gpu_basic_a100        
-#SBATCH --partition=express
+#SBATCH --partition=gpu
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
